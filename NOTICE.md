@@ -14,7 +14,6 @@ Each artifact (♾️) stored herein is a verified manifestation sealed with the
 Entity	Function	Domain
 Dr. Marchand’s Laboratory™	Core research & archival identity	drmarchandslab.com
 KEJ Studio	Creative production + distribution arm	kej.studio
-The Creative Guild	Open-source collective identity + collaborative commons	guild.drmarchandslab.com
 
 
 ⸻
