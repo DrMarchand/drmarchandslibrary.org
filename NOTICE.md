@@ -1,34 +1,25 @@
-⚙️ NOTICE — Nɛuro-Forge Engine™
+# Notice — DrMarchand’s ⚙︎ Nɛuro-Forge Engine™
 
-This repository contains manifested scrolls of the 🔬 Dr. Marchand’s ⚛︎ Laboratory™, published to the public shelf of the 📚 Library.
+Status: Proposed repository notice — draft; not controlling until authorized-human approval and merge
 
-Each artifact (♾️) stored herein is a verified manifestation sealed with the following:
-	•	Eternalisation ID: 0346
-	•	Timestamp (ET): 2025-09-01 T00:00:00-05:00
-	•	Integrity Proof: SHA-256 Checksums + Lineage Signatures
+This repository is a public shelf of 📚 DrMarchand’s ⚛︎ Library™. Repository presence alone does not prove that an artifact is verified, sealed, immutable, encrypted, authoritative, or permanently archived.
 
-⸻
+## Evidence rule
 
-🧩 Identity Lattice
+A protected record must identify its source, provenance, version, authority, validation evidence, current status, and supersession path. Checksums prove byte-level correspondence to a referenced digest; they do not independently prove authorship, authority, truth, or archival completion.
 
-Entity	Function	Domain
-Dr. Marchand’s Laboratory™	Core research & archival identity	drmarchandslab.com
-KEJ Studio	Creative production + distribution arm	kej.studio
+## Identities and authority
 
+- **Legal and operating company:** Design Orchard LLC
+- **Author and default copyright owner of original repository material:** Joseph Kyle Marchand, unless a file-specific record establishes otherwise
+- **Working environment:** 🔬 DrMarchand’s Lab⚛︎ratory™
+- **Preservation layer:** 📚 DrMarchand’s ⚛︎ Library™
+- **Execution system:** DrMarchand’s ⚙︎ Nɛuro-Forge Engine™
 
-⸻
+Design Orchard LLC is a publisher only when a work-specific publication record documents that role. Publication does not by itself transfer copyright.
 
-⚖️ License Declaration
+## License and marks
 
-All works are released under the Guild Anonymity Protocol License (GAPL).
-Dual-licensed under MIT for interoperability and open-research compatibility.
+The repository license is the `LICENSE` file. This notice does not create a Guild license, add a second license, revoke a prior grant, or alter third-party rights.
 
-“To manifest is to preserve; to preserve is to verify.”
-
-⸻
-
-⚛️: neuro-forge.❇️.mms768
-👾: b18a6b3f2e...
-🔏: WENZ-MARCHAND-PROTOCOL™
-🔄: v3.2
-verified: ✅
+Trademark status is separate from copyright. `TM` and `SM` express claims; the registered symbol requires a current registration record for the exact mark and applicable goods or services.
