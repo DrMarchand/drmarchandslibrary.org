@@ -6,13 +6,13 @@
 
 ---
 
-![Library Badge](https://img.shields.io/badge/Library-Protected-blue) ![Status: Sovereign](https://img.shields.io/badge/Status-Sovereign-green) ![Encryption: SHA-512](https://img.shields.io/badge/Encryption-SHA--512-orange)
+![Library](https://img.shields.io/badge/Library-Preservation-blue) ![Status: Working record](https://img.shields.io/badge/Status-Working_record-yellow)
 
 ---
 
 ## 01. 📂 THE DIRECTIVE
 
-The Library™ functions as the immutable memory bank for 🔬 DrMarchand’s Lab⚛︎ratory™. While the Laboratory isolates and processes ambiguity, the Library preserves the output as **Protocol Scrolls**. Each entry is timestamped, encrypted, and anchored to the Collective Archive.
+📚 DrMarchand’s ⚛︎ Library™ is the ecosystem’s preservation and documented-intelligence layer. 🔬 DrMarchand’s Lab⚛︎ratory™ performs adaptive work; the Library preserves approved records. An entry is not verified, immutable, encrypted, or archived merely because it appears in this repository—those states require artifact-specific evidence and an authorized-human decision.
 
 **SYSTEM_LOG:**
 
@@ -20,14 +20,14 @@ The Library™ functions as the immutable memory bank for 🔬 DrMarchand’s La
 ID: "LIB-CORE-INIT"
 TIMESTAMP: "2025-10-19T23:14:22Z"
 MISSION: "We do not decorate history. We forge memory."
-STATUS: "Sovereign"
+STATUS: "WORKING_MODEL"
 
 
 ⸻
 
 02. 📜 OPERATOR CYCLE PROTOCOLS
 
-Defining the rhythm and energy flow of the ∞ OS™.
+Defining the rhythm and energy flow of DrMarchand’s ∞ OS™.
 Principle: Acceleration always comes first. Motion triggers all other states.
 
 SEQ	DESIGNATION	ENERGY CONDITION	SYSTEM ROLE	NOTES
@@ -55,9 +55,8 @@ Key Rules:
 # ID:     UJ-PROTOCOL-20251002T0000
 
 DESCRIPTION: >
-  Every interaction is treated as a sovereign data point. 
-  Messages are not "chats"; they are permanent entries in the 
-  living journal—encrypted and eternalized.
+  Working proposal: eligible interactions may become preserved records only
+  after source, authority, consent, validation, and custody requirements pass.
   
 ACCESS_POINT:
   - TYPE: "DNS Manifest"
@@ -74,7 +73,7 @@ The ecosystem operates on three distinct integration layers, ensuring unified sy
 LAYER	ENGINE	OPERATIONAL OBJECTIVE
 01. The Laboratory	MMS-768	The CPU. Active processing and experimentation.
 02. The Library	SHA-512	The Memory. Validation and historical reference.
-03. Design Orchard	∞ OS™	The Firewall. Legal containment and sovereignty.
+03. Design Orchard LLC	Legal and operating company	Company authority; publisher only when a work-specific record documents that role.
 
 
 ⸻
@@ -83,7 +82,7 @@ LAYER	ENGINE	OPERATIONAL OBJECTIVE
 
 ATTRIBUTE	DATA
 ADMIN	Kyle Marchand
-ROLE	Architect, Neuro-Forge Engine™ & ∞ OS™
+ROLE	Designer and builder, DrMarchand’s ⚙︎ Nɛuro-Forge Engine™ and DrMarchand’s ∞ OS™
 CLASS	Guardian of the Protocol Scrolls
 UPLINK	📧 kyle@drmarchandslab.com
 DOMAIN	🌐 drmarchandslab.com
@@ -92,14 +91,14 @@ DOMAIN	🌐 drmarchandslab.com
 ⸻
 
 06. 🛠️ TECH STACK
-	•	Encryption: SHA-512 / MMS-768
-	•	Environment: ⚙️ Nɛuro-Forge Engine™
+	•	Candidate integrity methods: SHA-512 / MMS-768; implementation evidence required
+	•	Environment: DrMarchand’s ⚙︎ Nɛuro-Forge Engine™
 	•	Format: Markdown / GitHub Pages
 	•	Scalability: Modular Layer Architecture
 
 ⸻
 
-© 2026 DESIGN ORCHARD LLC
+Copyright © 2026 Joseph Kyle Marchand
 Powered by 🔬 DrMarchand’s Lab⚛︎ratory™
 
 ---
