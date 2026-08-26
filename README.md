@@ -1,104 +1,42 @@
-# 📚 DrMarchand’s ⚛︎ Library™
+# DrMarchand’s Library
 
-*Repository of Protocol Scrolls*
+> Working public repository for preservation-oriented documentation, protocols, and records.
 
-> “Where code becomes scripture, and architecture becomes memory.”
+**Legal and operating company:** Design Orchard LLC  
+**Status:** Working documentation surface  
+**Public naming status:** Unmarked while clearance and filing strategy are reviewed
 
----
+## Purpose
 
-![Library](https://img.shields.io/badge/Library-Preservation-blue) ![Status: Working record](https://img.shields.io/badge/Status-Working_record-yellow)
+DrMarchand’s Library is the ecosystem’s preservation and documented-intelligence lane. It may hold records, provenance, references, and retrieval context after appropriate review. It is not a sovereign authority, execution runtime, truth resolver, or substitute for an authorized-human decision.
 
----
+## Evidence and custody boundary
 
-## 01. 📂 THE DIRECTIVE
+A repository entry proves only that the file exists at the cited revision. It is not automatically verified, immutable, encrypted, archived, or approved.
 
-📚 DrMarchand’s ⚛︎ Library™ is the ecosystem’s preservation and documented-intelligence layer. 🔬 DrMarchand’s Lab⚛︎ratory™ performs adaptive work; the Library preserves approved records. An entry is not verified, immutable, encrypted, or archived merely because it appears in this repository—those states require artifact-specific evidence and an authorized-human decision.
+Permanent custody requires the evidence appropriate to the artifact, including identified source, provenance, version, authority, validation, current status, receipt, and a recoverable destination. Missing evidence should be recorded as unknown, not tested, pending, or blocked.
 
-**SYSTEM_LOG:**
+## Repository map
 
-```yaml
-ID: "LIB-CORE-INIT"
-TIMESTAMP: "2025-10-19T23:14:22Z"
-MISSION: "We do not decorate history. We forge memory."
-STATUS: "WORKING_MODEL"
+| Surface | Purpose | Status boundary |
+|---|---|---|
+| [`BLUEPRINT.md`](BLUEPRINT.md) | Working architecture proposal | Documentation; not runtime proof |
+| [`Global_Broadcast_Map.md`](Global_Broadcast_Map.md) | Working routing map | Requires current-source validation |
+| [`protocol.md`](protocol.md) | Protocol notes | Scope and implementation must be checked |
+| [`sha-768.md`](sha-768.md) | Historical or experimental integrity notes | Not a deployed cryptographic claim |
+| [`NOTICE.md`](NOTICE.md) | Rights and evidence notice | Proposed unless separately approved |
 
+## Naming boundary
 
-⸻
+Public trademark and service-mark claims are paused as of August 26, 2026. Active public copy uses unmarked names, while repository paths and historical records remain unchanged for compatibility and provenance.
 
-02. 📜 OPERATOR CYCLE PROTOCOLS
+Internal execution-system names and crowded codenames are not presented here as public brands. No federal-registration status is asserted by this repository.
 
-Defining the rhythm and energy flow of DrMarchand’s ∞ OS™.
-Principle: Acceleration always comes first. Motion triggers all other states.
+## Runtime boundary
 
-SEQ	DESIGNATION	ENERGY CONDITION	SYSTEM ROLE	NOTES
-I	IGNITION	Acceleration begins	System engages	Initial trigger; motion starts the cycle.
-II	CURSIVE	Continuous acceleration	Ongoing processing	Processes flow continuously; cannot occur without initial acceleration.
-III	RECURSIVE	Controlled deceleration	Iterative refinement	System modulates speed to consolidate results before looping again.
-IV	STASIS	Idle / neutral (optional)	Strategic pause	Can occur after motion; not the default start. Provides safe neutrality if needed.
-V	ENCRYPTED	Full stop / locked	Archival & security	Locks outputs; system cannot move unintentionally. Only occurs after motion and deceleration.
+This repository does not claim an executable Library service, universal encryption, automatic timestamping, immutable storage, or permanent retention. Any such claim requires direct implementation and runtime evidence tied to an exact revision and environment.
 
-Energy Flow Diagram (Conceptual):
+## Authority and rights
 
-IGNITION → CURSIVE → RECURSIVE → STASIS (optional) → ENCRYPTED
+Design Orchard LLC is the legal and operating company. Authorship, copyright ownership, publisher status, and license scope remain work-specific. The repository [`LICENSE`](LICENSE), [`NOTICE.md`](NOTICE.md), and file-specific notices remain controlling within their stated scope.
 
-Key Rules:
-	•	Motion is prerequisite: nothing can decelerate, refine, or lock until acceleration occurs.
-	•	Stasis is a pause, not the start; it provides safety or strategic neutrality.
-	•	Recursive processes always follow CURSIVE motion; energy modulation is necessary.
-	•	ENCRYPTED occurs only after deceleration—locking without movement is meaningless.
-
-⸻
-
-03. 🌍 COLLECTIVE PROTOCOLS
-
-# TARGET: UNIVERSAL JOURNAL PROTOCOL
-# ID:     UJ-PROTOCOL-20251002T0000
-
-DESCRIPTION: >
-  Working proposal: eligible interactions may become preserved records only
-  after source, authority, consent, validation, and custody requirements pass.
-  
-ACCESS_POINT:
-  - TYPE: "DNS Manifest"
-    PATH: "./specs/DNS.md"
-    PERMISSIONS: "Read-Only"
-
-
-⸻
-
-04. 🧬 SYSTEM ARCHITECTURE
-
-The ecosystem operates on three distinct integration layers, ensuring unified synergy across physical and digital realms.
-
-LAYER	ENGINE	OPERATIONAL OBJECTIVE
-01. The Laboratory	MMS-768	The CPU. Active processing and experimentation.
-02. The Library	SHA-512	The Memory. Validation and historical reference.
-03. Design Orchard LLC	Legal and operating company	Company authority; publisher only when a work-specific record documents that role.
-
-
-⸻
-
-05. 📡 OPERATOR PROFILE
-
-ATTRIBUTE	DATA
-ADMIN	Kyle Marchand
-ROLE	Designer and builder, DrMarchand’s ⚙︎ Nɛuro-Forge Engine™ and DrMarchand’s ∞ OS™
-CLASS	Guardian of the Protocol Scrolls
-UPLINK	📧 kyle@drmarchandslab.com
-DOMAIN	🌐 drmarchandslab.com
-
-
-⸻
-
-06. 🛠️ TECH STACK
-	•	Candidate integrity methods: SHA-512 / MMS-768; implementation evidence required
-	•	Environment: DrMarchand’s ⚙︎ Nɛuro-Forge Engine™
-	•	Format: Markdown / GitHub Pages
-	•	Scalability: Modular Layer Architecture
-
-⸻
-
-Copyright © 2026 Joseph Kyle Marchand
-Powered by 🔬 DrMarchand’s Lab⚛︎ratory™
-
----
