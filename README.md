@@ -1,104 +1,39 @@
-# 📚 DrMarchand’s ⚛︎ Library™
+# DrMarchand’s Library
 
-*Repository of Protocol Scrolls*
+DrMarchand’s Library is a preservation and records environment for material produced through Design Orchard and DrMarchand’s Laboratory workflows.
 
-> “Where code becomes scripture, and architecture becomes memory.”
+## Purpose
 
----
+The Library supports preservation, indexing, curation, reference, and recall.
 
-![Library](https://img.shields.io/badge/Library-Preservation-blue) ![Status: Working record](https://img.shields.io/badge/Status-Working_record-yellow)
+A file appearing in this repository is not automatically verified, immutable, encrypted, authoritative, or permanently archived. Those states require the evidence and decisions appropriate to the specific record.
 
----
+## Laboratory / Library relationship
 
-## 01. 📂 THE DIRECTIVE
+```text
+DrMarchand’s Laboratory
+  research / build / test
+        ↓ eligible records
+DrMarchand’s Library
+  preserve / index / curate / recall
+```
 
-📚 DrMarchand’s ⚛︎ Library™ is the ecosystem’s preservation and documented-intelligence layer. 🔬 DrMarchand’s Lab⚛︎ratory™ performs adaptive work; the Library preserves approved records. An entry is not verified, immutable, encrypted, or archived merely because it appears in this repository—those states require artifact-specific evidence and an authorized-human decision.
+The Laboratory performs active development work. The Library preserves records that are appropriate for custody. Recall creates a working instance rather than silently replacing the preserved record.
 
-**SYSTEM_LOG:**
+## Records
 
-```yaml
-ID: "LIB-CORE-INIT"
-TIMESTAMP: "2025-10-19T23:14:22Z"
-MISSION: "We do not decorate history. We forge memory."
-STATUS: "WORKING_MODEL"
+Records may include specifications, protocols, documentation, references, release material, and other preserved project evidence. Historical documents may contain terminology that is no longer current; those expressions should be read as historical evidence rather than automatically treated as present architecture.
 
+## Naming rule
 
-⸻
+Until further notice, `™` and `℠` are reserved only for functional folder names.
 
-02. 📜 OPERATOR CYCLE PROTOCOLS
+Public prose and ordinary references use unmarked names. A marked folder and an otherwise identical unmarked folder represent the same functional namespace. After identity, contents, permissions, links, and references are reconciled, the unmarked folder is the preferred compacted home.
 
-Defining the rhythm and energy flow of DrMarchand’s ∞ OS™.
-Principle: Acceleration always comes first. Motion triggers all other states.
+Machine identifiers and historical records are preserved as observed until a deliberate migration or archival decision is made.
 
-SEQ	DESIGNATION	ENERGY CONDITION	SYSTEM ROLE	NOTES
-I	IGNITION	Acceleration begins	System engages	Initial trigger; motion starts the cycle.
-II	CURSIVE	Continuous acceleration	Ongoing processing	Processes flow continuously; cannot occur without initial acceleration.
-III	RECURSIVE	Controlled deceleration	Iterative refinement	System modulates speed to consolidate results before looping again.
-IV	STASIS	Idle / neutral (optional)	Strategic pause	Can occur after motion; not the default start. Provides safe neutrality if needed.
-V	ENCRYPTED	Full stop / locked	Archival & security	Locks outputs; system cannot move unintentionally. Only occurs after motion and deceleration.
+## Publication rule
 
-Energy Flow Diagram (Conceptual):
+Preservation and publication are different states. Material should be described according to what the available evidence actually establishes.
 
-IGNITION → CURSIVE → RECURSIVE → STASIS (optional) → ENCRYPTED
-
-Key Rules:
-	•	Motion is prerequisite: nothing can decelerate, refine, or lock until acceleration occurs.
-	•	Stasis is a pause, not the start; it provides safety or strategic neutrality.
-	•	Recursive processes always follow CURSIVE motion; energy modulation is necessary.
-	•	ENCRYPTED occurs only after deceleration—locking without movement is meaningless.
-
-⸻
-
-03. 🌍 COLLECTIVE PROTOCOLS
-
-# TARGET: UNIVERSAL JOURNAL PROTOCOL
-# ID:     UJ-PROTOCOL-20251002T0000
-
-DESCRIPTION: >
-  Working proposal: eligible interactions may become preserved records only
-  after source, authority, consent, validation, and custody requirements pass.
-  
-ACCESS_POINT:
-  - TYPE: "DNS Manifest"
-    PATH: "./specs/DNS.md"
-    PERMISSIONS: "Read-Only"
-
-
-⸻
-
-04. 🧬 SYSTEM ARCHITECTURE
-
-The ecosystem operates on three distinct integration layers, ensuring unified synergy across physical and digital realms.
-
-LAYER	ENGINE	OPERATIONAL OBJECTIVE
-01. The Laboratory	MMS-768	The CPU. Active processing and experimentation.
-02. The Library	SHA-512	The Memory. Validation and historical reference.
-03. Design Orchard LLC	Legal and operating company	Company authority; publisher only when a work-specific record documents that role.
-
-
-⸻
-
-05. 📡 OPERATOR PROFILE
-
-ATTRIBUTE	DATA
-ADMIN	Kyle Marchand
-ROLE	Designer and builder, DrMarchand’s ⚙︎ Nɛuro-Forge Engine™ and DrMarchand’s ∞ OS™
-CLASS	Guardian of the Protocol Scrolls
-UPLINK	📧 kyle@drmarchandslab.com
-DOMAIN	🌐 drmarchandslab.com
-
-
-⸻
-
-06. 🛠️ TECH STACK
-	•	Candidate integrity methods: SHA-512 / MMS-768; implementation evidence required
-	•	Environment: DrMarchand’s ⚙︎ Nɛuro-Forge Engine™
-	•	Format: Markdown / GitHub Pages
-	•	Scalability: Modular Layer Architecture
-
-⸻
-
-Copyright © 2026 Joseph Kyle Marchand
-Powered by 🔬 DrMarchand’s Lab⚛︎ratory™
-
----
+Copyright and other rights remain governed by the applicable work-specific records.
