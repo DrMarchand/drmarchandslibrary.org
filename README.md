@@ -1,39 +1,39 @@
-# DrMarchand’s Library
+# 📚 DrMarchand’s ⚛︎ Library™
 
-DrMarchand’s Library is a preservation and records environment for material produced through Design Orchard and DrMarchand’s Laboratory workflows.
+> A preservation, indexing, curation, and recall surface for records that have earned a durable home.
 
-## Purpose
+**Public repository:** `DrMarchand/drmarchandslibrary.org` · **Preservation is not publication**
 
-The Library supports preservation, indexing, curation, reference, and recall.
+## What the Library does
 
-A file appearing in this repository is not automatically verified, immutable, encrypted, authoritative, or permanently archived. Those states require the evidence and decisions appropriate to the specific record.
+- preserves eligible records and their provenance;
+- indexes material for retrieval and relationship mapping;
+- separates historical evidence from current operating truth;
+- supports recall without silently overwriting the preserved record;
+- keeps private custody detail out of public documentation.
 
-## Laboratory / Library relationship
+## Laboratory / Library boundary
 
-```text
-DrMarchand’s Laboratory
-  research / build / test
-        ↓ eligible records
-DrMarchand’s Library
-  preserve / index / curate / recall
+```mermaid
+flowchart LR
+    LAB[Laboratory working state] --> GATE[Evidence + validation]
+    GATE --> LIB[Library preserved record]
+    LIB --> RECALL[Recall copy]
+    RECALL --> LAB
 ```
 
-The Laboratory performs active development work. The Library preserves records that are appropriate for custody. Recall creates a working instance rather than silently replacing the preserved record.
+The Laboratory changes. The Library preserves. A recalled artifact becomes a working instance; it does not mutate the preserved source simply because it was opened again.
 
-## Records
+## Record discipline
 
-Records may include specifications, protocols, documentation, references, release material, and other preserved project evidence. Historical documents may contain terminology that is no longer current; those expressions should be read as historical evidence rather than automatically treated as present architecture.
+A file appearing here is not automatically verified, immutable, encrypted, authoritative, or permanently archived. Those states require the evidence and custody controls appropriate to the specific artifact.
 
-## Naming rule
+Historical documents may retain old terminology as provenance. Current documentation should use current identities and clearly label superseded language.
 
-Until further notice, `™` and `℠` are reserved only for functional folder names.
+## Public boundary
 
-Public prose and ordinary references use unmarked names. A marked folder and an otherwise identical unmarked folder represent the same functional namespace. After identity, contents, permissions, links, and references are reconciled, the unmarked folder is the preferred compacted home.
+No credentials, private storage locators, private production markers, identity proofs, or sensitive business records belong in the public Library surface.
 
-Machine identifiers and historical records are preserved as observed until a deliberate migration or archival decision is made.
+## Authority and rights
 
-## Publication rule
-
-Preservation and publication are different states. Material should be described according to what the available evidence actually establishes.
-
-Copyright and other rights remain governed by the applicable work-specific records.
+The Library operates within the Design Orchard / DrMarchand ecosystem. Work-specific rights, licenses, provenance, and publication records remain controlling for individual artifacts.
