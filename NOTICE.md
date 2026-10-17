@@ -1,8 +1,8 @@
-# Notice — DrMarchand’s ⚙︎ Nɛuro-Forge Engine™
+# Notice — DrMarchand’s ⚙︎ Nɛuro-Forge Engine
 
 Status: Proposed repository notice — draft; not controlling until authorized-human approval and merge
 
-This repository is a public shelf of 📚 DrMarchand’s ⚛︎ Library™. Repository presence alone does not prove that an artifact is verified, sealed, immutable, encrypted, authoritative, or permanently archived.
+This repository is a public shelf of 📚 DrMarchand’s ⚛︎ Library. Repository presence alone does not prove that an artifact is verified, sealed, immutable, encrypted, authoritative, or permanently archived.
 
 ## Evidence rule
 
@@ -12,9 +12,9 @@ A protected record must identify its source, provenance, version, authority, val
 
 - **Legal and operating company:** Design Orchard LLC
 - **Author and default copyright owner of original repository material:** Joseph Kyle Marchand, unless a file-specific record establishes otherwise
-- **Working environment:** 🔬 DrMarchand’s Lab⚛︎ratory™
-- **Preservation layer:** 📚 DrMarchand’s ⚛︎ Library™
-- **Execution system:** DrMarchand’s ⚙︎ Nɛuro-Forge Engine™
+- **Working environment:** 🔬 DrMarchand’s Lab⚛︎ratory
+- **Preservation layer:** 📚 DrMarchand’s ⚛︎ Library
+- **Execution system:** DrMarchand’s ⚙︎ Nɛuro-Forge Engine
 
 Design Orchard LLC is a publisher only when a work-specific publication record documents that role. Publication does not by itself transfer copyright.
 

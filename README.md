@@ -1,4 +1,4 @@
-# 📚 DrMarchand’s ⚛︎ Library™
+# 📚 DrMarchand’s ⚛︎ Library
 
 > A preservation, indexing, curation, and recall surface for records that have earned a durable home.
 
